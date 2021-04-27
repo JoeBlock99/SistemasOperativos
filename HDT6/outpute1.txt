@@ -1,0 +1,160 @@
+Thread 2 starts task
+Thread 3 starts task
+Thread 1 starts task
+Thread 4 starts task
+Thread 5 starts task
+Thread 6 starts task
+Thread 7 starts task
+Thread 8 starts task
+Thread 9 starts task
+Thread 10 starts task
+Thread 2 intentando usar algun recurso		 - recursos disponibles: 5
+Thread 2 usando recurso por 2 S			 - recursos disponibles: 4
+Thread 1 intentando usar algun recurso		 - recursos disponibles: 4
+Thread 1 usando recurso por 4 S			 - recursos disponibles: 3
+Thread 3 intentando usar algun recurso		 - recursos disponibles: 3
+Thread 3 usando recurso por 2 S			 - recursos disponibles: 2
+Thread 4 intentando usar algun recurso		 - recursos disponibles: 2
+Thread 4 usando recurso por 6 S			 - recursos disponibles: 1
+Thread 5 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 5 usando recurso por 7 S			 - recursos disponibles: 0
+Thread 6 intentando usar algun recurso		 - recursos disponibles: 0
+Thread 7 intentando usar algun recurso		 - recursos disponibles: 0
+Thread 8 intentando usar algun recurso		 - recursos disponibles: 0
+Thread 9 intentando usar algun recurso		 - recursos disponibles: 0
+Thread 10 intentando usar algun recurso		 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 3 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 3 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 2 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 2 usando recurso por 5 S			 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 3 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 3 usando recurso por 10 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 1 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 1 usando recurso por 6 S			 - recursos disponibles: 0
+Thread 4 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 4 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 4 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 5 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 5 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 5 usando recurso por 6 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 2 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 2 usando recurso por 7 S			 - recursos disponibles: 0
+Thread 4 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 4 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 4 usando recurso por 5 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 1 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 1 usando recurso por 5 S			 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 3 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 3 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 5 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 5 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 5 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 2 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 2 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 4 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 4 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 4 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 1 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 1 usando recurso por 6 S			 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 3 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 3 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 5 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 5 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 5 usando recurso por 7 S			 - recursos disponibles: 0
+Thread 4 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 4 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 4 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 2 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 2 usando recurso por 9 S			 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 9 usando recurso por 5 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 1 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 1 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 6 usando recurso por 7 S			 - recursos disponibles: 0
+Thread 5 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 5 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 5 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 9 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 9 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 9 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 4 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 10 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 8 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 9 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 9 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 9 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 10 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 10 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 10 usando recurso por 7 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 6 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 6 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 5 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 7 usando recurso por 9 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 6 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 6 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 8 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 8 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 8 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 6 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 6 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 9 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 9 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 9 usando recurso por 9 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 6 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 6 usando recurso por 10 S			 - recursos disponibles: 0
+Thread 10 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 10 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 10 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 7 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 7 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 7 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 8 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 8 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 8 usando recurso por 5 S			 - recursos disponibles: 0
+Thread 7 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 7 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 7 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 9 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 9 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 9 usando recurso por 6 S			 - recursos disponibles: 0
+Thread 10 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 10 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 10 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 10 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 10 intentando usar algun recurso		 - recursos disponibles: 1
+Thread 10 usando recurso por 8 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso			 - recursos disponibles: 1
+Thread 7 ha terminado de usar el recurso			 - recursos disponibles: 2
+Thread 7 intentando usar algun recurso		 - recursos disponibles: 2
+Thread 7 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 8 ha terminado de usar el recurso			 - recursos disponibles: 2
+Thread 8 intentando usar algun recurso		 - recursos disponibles: 2
+Thread 8 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 7 ha terminado de usar el recurso			 - recursos disponibles: 2
+Thread 7 intentando usar algun recurso		 - recursos disponibles: 2
+Thread 7 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 7 ha terminado de usar el recurso			 - recursos disponibles: 2
+Thread 9 ha terminado de usar el recurso			 - recursos disponibles: 3
+Thread 8 ha terminado de usar el recurso			 - recursos disponibles: 4
+Thread 8 intentando usar algun recurso		 - recursos disponibles: 4
+Thread 8 usando recurso por 6 S			 - recursos disponibles: 3
+Thread 10 ha terminado de usar el recurso			 - recursos disponibles: 4
+Thread 8 ha terminado de usar el recurso			 - recursos disponibles: 5

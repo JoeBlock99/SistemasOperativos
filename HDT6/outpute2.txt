@@ -1,0 +1,465 @@
+Thread 3 starts task
+El thread 3 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 3 usando recurso por 3 S			 - recursos disponibles: 3
+Thread 4 starts task
+El thread 4 intenta usar los recursos 1		 - recursos disponibles: 3
+El thread 4 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 1 starts task
+El thread 1 intenta usar los recursos 1		 - recursos disponibles: 2
+El thread 1 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 12 starts task
+El thread 12 intenta usar los recursos 2		 - recursos disponibles: 1
+Thread 9 starts task
+El thread 9 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 7 starts task
+El thread 7 intenta usar los recursos 2		 - recursos disponibles: 1
+Thread 10 starts task
+El thread 10 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 11 starts task
+El thread 11 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 2 starts task
+El thread 2 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 6 starts task
+El thread 6 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 5 starts task
+El thread 5 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 8 starts task
+El thread 8 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 14 starts task
+El thread 14 intenta usar los recursos 2		 - recursos disponibles: 1
+Thread 13 starts task
+El thread 13 intenta usar los recursos 1		 - recursos disponibles: 1
+El thread 13 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 15 starts task
+El thread 15 intenta usar los recursos 2		 - recursos disponibles: 0
+Thread 4 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 4 intenta usar los recursos 1		 - recursos disponibles: 1
+El thread 4 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 13 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 13 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 1 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 1 intenta usar los recursos 2		 - recursos disponibles: 2
+El thread 1 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 3 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 4 ha terminado de usar el recurso 1			 - recursos disponibles: 3
+El thread 4 intenta usar los recursos 2		 - recursos disponibles: 3
+El thread 4 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 1 ha terminado de usar el recurso 2			 - recursos disponibles: 3
+El thread 1 intenta usar los recursos 2		 - recursos disponibles: 3
+El thread 1 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 4 ha terminado de usar el recurso 2			 - recursos disponibles: 3
+El thread 4 intenta usar los recursos 3		 - recursos disponibles: 3
+El thread 4 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 1 intenta usar los recursos 1		 - recursos disponibles: 2
+El thread 1 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 4 ha terminado de usar el recurso 3			 - recursos disponibles: 4
+El thread 4 intenta usar los recursos 1		 - recursos disponibles: 4
+El thread 4 usando recurso por 1 S			 - recursos disponibles: 3
+Thread 4 ha terminado de usar el recurso 1			 - recursos disponibles: 4
+El thread 4 intenta usar los recursos 2		 - recursos disponibles: 4
+El thread 4 usando recurso por 2 S			 - recursos disponibles: 2
+El thread 14 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 1 intenta usar los recursos 2		 - recursos disponibles: 1
+Thread 4 ha terminado de usar el recurso 2			 - recursos disponibles: 3
+El thread 4 intenta usar los recursos 3		 - recursos disponibles: 3
+El thread 4 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 14 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 14 intenta usar los recursos 1		 - recursos disponibles: 2
+El thread 14 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 4 ha terminado de usar el recurso 3			 - recursos disponibles: 4
+El thread 4 intenta usar los recursos 4		 - recursos disponibles: 4
+El thread 4 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 14 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 14 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 4 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 4 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 4 usando recurso por 4 S			 - recursos disponibles: 4
+El thread 3 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 3 ha terminado de usar el recurso 3			 - recursos disponibles: 4
+El thread 3 intenta usar los recursos 2		 - recursos disponibles: 4
+El thread 3 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 4 ha terminado de usar el recurso 1			 - recursos disponibles: 3
+El thread 4 intenta usar los recursos 4		 - recursos disponibles: 3
+Thread 3 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 3 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 3 usando recurso por 2 S			 - recursos disponibles: 3
+El thread 2 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 3 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 3 intenta usar los recursos 4		 - recursos disponibles: 2
+Thread 2 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 2 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 2 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 2 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 2 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 2 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 2 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 2 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 2 usando recurso por 2 S			 - recursos disponibles: 2
+El thread 1 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso 3			 - recursos disponibles: 3
+El thread 2 intenta usar los recursos 4		 - recursos disponibles: 3
+El thread 15 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 1 ha terminado de usar el recurso 2			 - recursos disponibles: 3
+El thread 1 intenta usar los recursos 3		 - recursos disponibles: 3
+El thread 1 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 15 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 15 intenta usar los recursos 4		 - recursos disponibles: 2
+Thread 1 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 1 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 1 usando recurso por 3 S			 - recursos disponibles: 4
+El thread 7 usando recurso por 3 S			 - recursos disponibles: 2
+Thread 7 ha terminado de usar el recurso 2			 - recursos disponibles: 4
+El thread 7 intenta usar los recursos 2		 - recursos disponibles: 4
+El thread 7 usando recurso por 3 S			 - recursos disponibles: 2
+Thread 1 ha terminado de usar el recurso 1			 - recursos disponibles: 3
+El thread 1 intenta usar los recursos 3		 - recursos disponibles: 3
+El thread 1 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso 3			 - recursos disponibles: 3
+El thread 1 intenta usar los recursos 2		 - recursos disponibles: 3
+El thread 1 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 7 ha terminado de usar el recurso 2			 - recursos disponibles: 3
+El thread 7 intenta usar los recursos 2		 - recursos disponibles: 3
+El thread 7 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 7 ha terminado de usar el recurso 2			 - recursos disponibles: 3
+El thread 7 intenta usar los recursos 3		 - recursos disponibles: 3
+El thread 7 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 1 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 1 intenta usar los recursos 4		 - recursos disponibles: 2
+Thread 7 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 7 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 7 usando recurso por 1 S			 - recursos disponibles: 3
+El thread 6 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso 3			 - recursos disponibles: 3
+El thread 6 intenta usar los recursos 4		 - recursos disponibles: 3
+El thread 5 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 7 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 7 intenta usar los recursos 4		 - recursos disponibles: 2
+Thread 5 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 5 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 5 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 5 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 5 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 5 usando recurso por 3 S			 - recursos disponibles: 4
+El thread 12 usando recurso por 3 S			 - recursos disponibles: 2
+Thread 5 ha terminado de usar el recurso 1			 - recursos disponibles: 3
+El thread 5 intenta usar los recursos 3		 - recursos disponibles: 3
+El thread 5 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 12 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 12 intenta usar los recursos 1		 - recursos disponibles: 2
+El thread 12 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 5 ha terminado de usar el recurso 3			 - recursos disponibles: 4
+El thread 5 intenta usar los recursos 3		 - recursos disponibles: 4
+El thread 5 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 12 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 12 intenta usar los recursos 2		 - recursos disponibles: 2
+El thread 12 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 12 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 12 intenta usar los recursos 2		 - recursos disponibles: 2
+El thread 12 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 5 ha terminado de usar el recurso 3			 - recursos disponibles: 3
+El thread 5 intenta usar los recursos 4		 - recursos disponibles: 3
+Thread 12 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 12 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 12 usando recurso por 1 S			 - recursos disponibles: 4
+El thread 11 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 12 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 12 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 11 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 11 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 11 usando recurso por 1 S			 - recursos disponibles: 3
+Thread 11 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 11 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 11 usando recurso por 1 S			 - recursos disponibles: 4
+El thread 6 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 11 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 11 intenta usar los recursos 2		 - recursos disponibles: 1
+Thread 6 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 6 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 6 usando recurso por 1 S			 - recursos disponibles: 4
+El thread 8 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 6 intenta usar los recursos 1		 - recursos disponibles: 1
+El thread 6 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 8 ha terminado de usar el recurso 4			 - recursos disponibles: 4
+El thread 8 intenta usar los recursos 1		 - recursos disponibles: 4
+El thread 8 usando recurso por 1 S			 - recursos disponibles: 3
+Thread 8 ha terminado de usar el recurso 1			 - recursos disponibles: 4
+El thread 9 usando recurso por 4 S			 - recursos disponibles: 0
+El thread 8 intenta usar los recursos 3		 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 6 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 9 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 9 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 9 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 9 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 9 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 9 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 9 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 9 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 9 usando recurso por 3 S			 - recursos disponibles: 2
+Thread 9 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 4 usando recurso por 1 S			 - recursos disponibles: 1
+El thread 9 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 4 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 12 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 12 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 12 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 12 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 12 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 12 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 12 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 12 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 12 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 12 usando recurso por 2 S			 - recursos disponibles: 2
+El thread 11 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 11 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 11 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 12 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 12 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 12 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 12 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 15 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 15 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 15 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 15 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 15 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 15 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 15 usando recurso por 1 S			 - recursos disponibles: 3
+El thread 6 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 15 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 15 intenta usar los recursos 1		 - recursos disponibles: 2
+El thread 15 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 15 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 15 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 6 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 6 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 6 usando recurso por 4 S			 - recursos disponibles: 4
+El thread 10 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 10 ha terminado de usar el recurso 4			 - recursos disponibles: 4
+El thread 10 intenta usar los recursos 3		 - recursos disponibles: 4
+El thread 10 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 6 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 6 intenta usar los recursos 4		 - recursos disponibles: 2
+Thread 10 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 10 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 10 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 10 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 10 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 10 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 10 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 10 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 10 usando recurso por 2 S			 - recursos disponibles: 4
+El thread 11 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 10 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 10 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 11 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 11 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 11 usando recurso por 1 S			 - recursos disponibles: 4
+El thread 2 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 11 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 11 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 2 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 2 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 2 usando recurso por 3 S			 - recursos disponibles: 3
+El thread 8 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 2 intenta usar los recursos 4		 - recursos disponibles: 2
+Thread 8 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 8 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 8 usando recurso por 3 S			 - recursos disponibles: 4
+El thread 13 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 13 ha terminado de usar el recurso 4			 - recursos disponibles: 4
+El thread 5 usando recurso por 2 S			 - recursos disponibles: 0
+El thread 13 intenta usar los recursos 3		 - recursos disponibles: 0
+Thread 8 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 8 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 5 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 5 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 5 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 5 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 5 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 5 usando recurso por 3 S			 - recursos disponibles: 3
+Thread 5 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 5 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 5 usando recurso por 3 S			 - recursos disponibles: 2
+Thread 5 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 5 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 5 usando recurso por 2 S			 - recursos disponibles: 4
+El thread 10 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 5 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+Thread 10 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 10 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 10 usando recurso por 3 S			 - recursos disponibles: 3
+El thread 11 usando recurso por 4 S			 - recursos disponibles: 0
+Thread 10 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 10 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 11 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 11 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 11 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 11 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 11 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 11 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 11 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 11 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 11 usando recurso por 1 S			 - recursos disponibles: 3
+El thread 13 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 11 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+Thread 13 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 13 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 13 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 13 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 13 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 13 usando recurso por 3 S			 - recursos disponibles: 4
+El thread 9 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 9 ha terminado de usar el recurso 4			 - recursos disponibles: 4
+El thread 9 intenta usar los recursos 1		 - recursos disponibles: 4
+El thread 9 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 13 ha terminado de usar el recurso 1			 - recursos disponibles: 4
+El thread 3 usando recurso por 2 S			 - recursos disponibles: 0
+El thread 13 intenta usar los recursos 3		 - recursos disponibles: 0
+Thread 9 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 9 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 3 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 3 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 3 usando recurso por 1 S			 - recursos disponibles: 4
+El thread 10 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 3 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 3 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 10 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 10 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 10 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 10 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 10 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 10 usando recurso por 3 S			 - recursos disponibles: 4
+El thread 15 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 15 ha terminado de usar el recurso 3			 - recursos disponibles: 4
+El thread 15 intenta usar los recursos 3		 - recursos disponibles: 4
+El thread 15 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 10 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+Thread 15 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 1 usando recurso por 1 S			 - recursos disponibles: 1
+El thread 15 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 1 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 13 usando recurso por 2 S			 - recursos disponibles: 2
+Thread 13 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 13 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 13 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 13 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 13 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 13 usando recurso por 1 S			 - recursos disponibles: 3
+Thread 13 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 3 usando recurso por 4 S			 - recursos disponibles: 2
+El thread 13 intenta usar los recursos 2		 - recursos disponibles: 2
+El thread 13 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 13 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 13 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 3 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 3 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 3 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 3 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 3 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 3 usando recurso por 4 S			 - recursos disponibles: 3
+Thread 3 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 3 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 3 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 3 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 15 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 15 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 15 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 15 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 15 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 15 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 15 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 15 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 14 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 14 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 14 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 14 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 14 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 14 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 14 usando recurso por 4 S			 - recursos disponibles: 4
+El thread 2 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 2 ha terminado de usar el recurso 4			 - recursos disponibles: 4
+El thread 2 intenta usar los recursos 3		 - recursos disponibles: 4
+El thread 2 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 14 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+El thread 14 intenta usar los recursos 1		 - recursos disponibles: 2
+El thread 14 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 2 ha terminado de usar el recurso 3			 - recursos disponibles: 4
+El thread 2 intenta usar los recursos 1		 - recursos disponibles: 4
+El thread 2 usando recurso por 3 S			 - recursos disponibles: 3
+Thread 14 ha terminado de usar el recurso 1			 - recursos disponibles: 4
+El thread 14 intenta usar los recursos 2		 - recursos disponibles: 4
+El thread 14 usando recurso por 3 S			 - recursos disponibles: 2
+Thread 2 ha terminado de usar el recurso 1			 - recursos disponibles: 3
+El thread 2 intenta usar los recursos 4		 - recursos disponibles: 3
+El thread 13 usando recurso por 2 S			 - recursos disponibles: 0
+Thread 14 ha terminado de usar el recurso 2			 - recursos disponibles: 2
+El thread 14 intenta usar los recursos 3		 - recursos disponibles: 2
+Thread 13 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 6 usando recurso por 1 S			 - recursos disponibles: 1
+Thread 6 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 6 intenta usar los recursos 1		 - recursos disponibles: 5
+El thread 6 usando recurso por 1 S			 - recursos disponibles: 4
+El thread 7 usando recurso por 3 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso 1			 - recursos disponibles: 1
+El thread 6 intenta usar los recursos 4		 - recursos disponibles: 1
+Thread 7 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 7 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 7 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 7 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 7 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 7 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 7 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 7 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 7 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 7 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 7 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 7 usando recurso por 4 S			 - recursos disponibles: 3
+Thread 7 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 9 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 9 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 2 usando recurso por 2 S			 - recursos disponibles: 1
+El thread 9 intenta usar los recursos 3		 - recursos disponibles: 1
+Thread 2 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 14 usando recurso por 2 S			 - recursos disponibles: 2
+Thread 14 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 14 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 14 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 14 ha terminado de usar el recurso 2			 - recursos disponibles: 5
+El thread 14 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 14 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 14 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 9 usando recurso por 4 S			 - recursos disponibles: 2
+Thread 9 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 9 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 9 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 9 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 9 intenta usar los recursos 4		 - recursos disponibles: 5
+El thread 9 usando recurso por 2 S			 - recursos disponibles: 1
+Thread 9 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 8 usando recurso por 3 S			 - recursos disponibles: 1
+Thread 8 ha terminado de usar el recurso 4			 - recursos disponibles: 5
+El thread 8 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 8 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 8 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 6 usando recurso por 1 S			 - recursos disponibles: 1
+El thread 8 intenta usar los recursos 1		 - recursos disponibles: 1
+El thread 8 usando recurso por 1 S			 - recursos disponibles: 0
+Thread 6 ha terminado de usar el recurso 4			 - recursos disponibles: 4
+El thread 6 intenta usar los recursos 1		 - recursos disponibles: 4
+El thread 6 usando recurso por 1 S			 - recursos disponibles: 3
+Thread 8 ha terminado de usar el recurso 1			 - recursos disponibles: 4
+El thread 8 intenta usar los recursos 3		 - recursos disponibles: 4
+El thread 8 usando recurso por 4 S			 - recursos disponibles: 1
+Thread 6 ha terminado de usar el recurso 1			 - recursos disponibles: 2
+Thread 8 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 8 intenta usar los recursos 3		 - recursos disponibles: 5
+El thread 8 usando recurso por 1 S			 - recursos disponibles: 2
+Thread 8 ha terminado de usar el recurso 3			 - recursos disponibles: 5
+El thread 8 intenta usar los recursos 2		 - recursos disponibles: 5
+El thread 8 usando recurso por 2 S			 - recursos disponibles: 3
+Thread 8 ha terminado de usar el recurso 2			 - recursos disponibles: 5
